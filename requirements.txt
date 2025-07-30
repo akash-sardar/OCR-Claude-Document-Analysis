@@ -1,0 +1,7 @@
+anthropic
+pymupdf
+frontend
+langchain
+langchain_ollama
+langchain_community
+langchain_huggingface
