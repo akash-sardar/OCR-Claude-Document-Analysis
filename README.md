@@ -1,7 +1,10 @@
 # Extract Tables from PDF using Claude (OCR enabled)
 
 A Python application that extracts content from PDFs and enables intelligent question-answering using AI models and vector search.
-Find the code here : [CODE](https://github.com/akash-sardar/OCR-Claude-Document-Analysis/blob/main/src/ocr_with_claude.py
+Find the code here : 
+
+[CODE](https://github.com/akash-sardar/OCR-Claude-Document-Analysis/blob/main/src/ocr_with_claude.py)
+
 
 ## Core Concepts
 
